@@ -10,3 +10,7 @@ git restore --staged Readme.md
 .gitignore
 .gitkeep
 git switch <branch>
+git checkout <branch>
+git switch -c feature_manthan_1
+git checkout -b feature_manthan_1
+git merge <branch>
