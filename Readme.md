@@ -7,3 +7,6 @@ git commit -m "initial commit"
 echo "creating new file" > newFile.txt
 git log --oneline
 git restore --staged Readme.md
+.gitignore
+.gitkeep
+git switch <branch>
