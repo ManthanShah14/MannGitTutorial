@@ -14,4 +14,5 @@ git checkout <branch>
 git switch -c feature_manthan_1
 git checkout -b feature_manthan_1
 git merge <branch>
-to delete branch first switch to branch main then run command - git branch -D <branch>
+to delete branch first switch to branch main then run command : git branch -D <branch>
+git merge --abort
