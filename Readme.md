@@ -20,3 +20,4 @@ git rebase <branch>
 git reflog 
 git reset --hard HEAD~1
 git reset --hard commitid
+git diff
