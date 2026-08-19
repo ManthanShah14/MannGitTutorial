@@ -17,3 +17,6 @@ git merge <branch>
 to delete branch first switch to branch main then run command : git branch -D <branch>
 git merge --abort
 git rebase <branch>
+git reflog 
+git reset --hard HEAD~1
+git reset --hard commitid
