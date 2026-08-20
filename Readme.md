@@ -26,3 +26,8 @@ git stash push -m "message"
 git stash list
 git stash apply (by default it will apply the latest stash on the top of the branch)
 git stash pop
+
+git remote -v
+git remote add origin "repo https url"
+git remote -v
+git push originmain
