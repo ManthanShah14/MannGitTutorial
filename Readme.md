@@ -1,3 +1,4 @@
+
 git status
 git config --global user.email "manthanshah140206@gmail.com"
 git config --global user.name "ManthanShah14"
@@ -27,3 +28,8 @@ git stash list
 git stash apply (by default it will apply the latest stash on the top of the branch)
 git stash apply "stash@{0}" (good practice by applying with indexes).
 git stash pop
+
+git remote -v
+git remote add origin "repo https url"
+git remote -v
+git push origin main
