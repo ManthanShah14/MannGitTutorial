@@ -22,3 +22,4 @@ git reset --hard HEAD~1
 git reset --hard commitid
 git diff --staged
 git cherry-pick commitid
+git stash push -m "message"
