@@ -30,4 +30,4 @@ git stash pop
 git remote -v
 git remote add origin "repo https url"
 git remote -v
-git push originmain
+git push origin main
