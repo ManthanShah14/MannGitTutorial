@@ -25,4 +25,5 @@ git cherry-pick commitid
 git stash push -m "message"
 git stash list
 git stash apply (by default it will apply the latest stash on the top of the branch)
+git stash apply "stash@{0}" (good practice by applying with indexes).
 git stash pop
