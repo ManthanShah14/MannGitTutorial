@@ -23,3 +23,6 @@ git reset --hard commitid
 git diff --staged
 git cherry-pick commitid
 git stash push -m "message"
+git stash list
+git stash apply (by default it will apply the latest stash on the top of the branch)
+git stash pop
