@@ -33,3 +33,4 @@ git remote -v
 git remote add origin "repo https url"
 git remote -v
 git push origin main
+git pull origin main --allow-unrelatd-histories.
